@@ -62,6 +62,7 @@ export default{
 ```
 
 > 关于Chart.js的详细配置，请参考[官方文档](http://www.chartjs.org/docs/)
+
 > 该组件可直接使用官方所给出的配置来使用
 
 ## 截图展示
