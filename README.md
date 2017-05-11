@@ -87,3 +87,6 @@ export default{
 
 ### Bubble Chart
 ![](static/bubble.png)
+
+## 待办事项
+- [ ] 改为插件方式安装
