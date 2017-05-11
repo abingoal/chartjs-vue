@@ -76,7 +76,7 @@ export default{
 ![](static/radar.png)
 
 ### Polar Area Chart
-![](static/polararea.png)
+![](static/polarArea.png)
 
 ### Pie Chart
 ![](static/pie.png)
